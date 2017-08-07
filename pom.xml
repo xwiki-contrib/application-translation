@@ -29,7 +29,7 @@
   </parent>
   <groupId>org.xwiki.contrib.translation</groupId>
   <artifactId>application-translation</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <name>Translation Application - Parent POM</name>
   <packaging>pom</packaging>
   <description>Helps translating XWiki UI in various languages</description>
@@ -37,7 +37,7 @@
     <connection>scm:git:git://github.com/xwiki-contrib/application-translation.git</connection>
     <developerConnection>scm:git:git@github.com:xwiki-contrib/application-translation.git</developerConnection>
     <url>https://github.com/xwiki-contrib/application-translation/tree/master</url>
-    <tag>HEAD</tag>
+    <tag>application-translation-1.0</tag>
   </scm>
   <url>http://extensions.xwiki.org/xwiki/bin/view/Extension/Translation Application</url>
   <properties>
