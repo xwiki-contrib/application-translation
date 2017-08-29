@@ -11,7 +11,7 @@ This is a work in progress. The end goal is to implement inline translation in X
 </aside>
 
 * Project Lead: [Vincent Massol](http://www.xwiki.org/xwiki/bin/view/XWiki/VincentMassol)
-* [Documentation & Download](http://extensions.xwiki.org/xwiki/bin/view/Extension/Translation+Application)
+* [Documentation & Download](http://extensions.xwiki.org/xwiki/bin/view/Extension/Translation%20API/)
 * [Issue Tracker](https://jira.xwiki.org/browse/TRANSLAT)
 * Communication: [Mailing List](http://dev.xwiki.org/xwiki/bin/view/Community/MailingLists), [IRC](http://dev.xwiki.org/xwiki/bin/view/Community/IRC)
 * [Development Practices](http://dev.xwiki.org)
