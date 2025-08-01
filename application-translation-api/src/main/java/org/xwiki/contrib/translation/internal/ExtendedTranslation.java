@@ -23,7 +23,7 @@ import java.util.HashMap;
 import java.util.Locale;
 import java.util.Map;
 
-import org.apache.commons.lang.exception.ExceptionUtils;
+import org.apache.commons.lang3.exception.ExceptionUtils;
 import org.xwiki.context.ExecutionContext;
 import org.xwiki.localization.Translation;
 import org.xwiki.localization.TranslationBundle;
